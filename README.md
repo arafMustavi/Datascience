@@ -1,2 +1,4 @@
 # datascience path
-All the codes I have done so far in dataquest.io
+datascience codes
+1. Analysis on Android apps data
+2. Analysis on iOS apps data
