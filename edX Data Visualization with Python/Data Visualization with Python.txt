@@ -1,0 +1,6 @@
+Module 01
+1)Introduction to Data Visualization : https://youtu.be/XCzwVi4lTmk
+2)Introduction to Matplotlib : https://youtu.be/ZQ9NrTfa-cE
+3)Basic Plotting with Matplotlib : https://youtu.be/SdGA32RsPkk
+4)Dataset on Immigration to Canada : https://youtu.be/-9NdvCevPyc
+5)Line Plots : https://youtu.be/onhzHOnnum4

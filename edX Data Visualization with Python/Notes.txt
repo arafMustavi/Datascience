@@ -1,0 +1,7 @@
+"Bar Graph shows better information than "
+"Less is more Attractive, Effective and Impactive"
+www.darkhorseanalytics.com
+
+
+John Hunter was the father of mathplotlib. Built this for ECG visualizing tool
+www.aosabook.org/en/mathplotlib.html
