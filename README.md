@@ -1,5 +1,6 @@
-# Analytics on Dataset
-1. Analysis on Android apps data
-2. Analysis on iOS apps data
-3. EMK Centre Assignments
-4. edX Courses
+# Data Science
+Some of the basic Data Wrangling and Stuffs I explored out of curiosity.
+
+This repository contains 
+1. World Quant University Data Science Module 01
+2. Profitable App Profile Analysis
